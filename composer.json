@@ -1,0 +1,18 @@
+{
+    "name": "hansnilsson/TwigUrlLinker",
+    "description": "Twig extension of Kwi UrlLinker",
+    "keywords": ["url", "twig"],
+    "homepage": "https://github.com/hansnilsson/TwigUrlLinker",
+    "license": "Public Domain Dedication",
+    "authors": [
+        {
+            "name": "Sören Lövborg"
+        }
+    ],
+    "require": {
+        "twig/twig": ">=1.8.0,<2.0-dev",
+    },
+    "autoload": {
+        "psr-0": { "Kwi\\": "src" }
+    }
+}
