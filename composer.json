@@ -1,8 +1,8 @@
 {
-    "name": "hansnilsson/TwigUrlLinker",
+    "name": "hansnilsson/twig-url-linker",
     "description": "Twig extension of Kwi UrlLinker",
     "keywords": ["url", "twig"],
-    "homepage": "https://github.com/hansnilsson/TwigUrlLinker",
+    "homepage": "https://github.com/hansnilsson/twig-url-linker",
     "license": "Public Domain Dedication",
     "authors": [
         {
