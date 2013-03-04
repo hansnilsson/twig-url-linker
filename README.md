@@ -2,6 +2,12 @@
 
 Twig extension of Kwi / UrlLinker (https://bitbucket.org/kwi/urllinker).
 
+## Installation
+
+### With composer
+
+    require: "hansnilsson/twig-url-linker": "dev-master"
+
 ## Usage
 
 ### With Silex
