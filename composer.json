@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "twig/twig": ">=1.8.0,<2.0-dev",
+        "twig/twig": ">=1.8.0,<2.0-dev"
     },
     "autoload": {
         "psr-0": { "Kwi\\": "src" }
